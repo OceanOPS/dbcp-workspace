@@ -5,7 +5,7 @@ A workspace for all thing DBCP, including the static website and issues.
 
 
 # WEBSITE: Data Buoy Cooperation Panel (DBCP)
-Official static website hosted by [OceanOPS](https://www.ocean-ops.org)
+Official static website hosted by [OceanOPS](https://www.ocean-ops.org) and Ifremer
 
 ---
 
