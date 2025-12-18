@@ -4,14 +4,14 @@ A workspace for all thing DBCP, including the static website and issues.
 
 
 
-# WEBSITE: Data Buoy Cooperation Panel (DBCP)**  
-Official static website hosted by [OceanOPS](https://www.ocean-ops.org)
+# WEBSITE: Data Buoy Cooperation Panel (DBCP)
+Official static website hosted by [OceanOPS](https://www.ocean-ops.org) and Ifremer
 
 ---
 
 ## 📖 Overview
 
-This is the official website of the **Data Buoy Cooperation Panel (DBCP)**
+This is the official website of the **Data Buoy Cooperation Panel (DBCP)
 
 The site is a **static HTML website** — primarily HTML (≈99%), with small supporting JavaScript and CSS files.  
 It provides information, documents, and resources related to DBCP operations, programs, and meetings.
