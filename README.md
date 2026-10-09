@@ -16,7 +16,9 @@ This is the official website of the **Data Buoy Cooperation Panel (DBCP)
 The site is a **static HTML website** — primarily HTML (≈99%), with small supporting JavaScript and CSS files.  
 It provides information, documents, and resources related to DBCP operations, programs, and meetings.
 
-📍 **Live site:** [https://www.ocean-ops.org/dbcp](https://www.ocean-ops.org/dbcp)
+📍 **Live site:** [https://dbcp.ocean-ops.org](https://www.dbcp.ocean-ops.org)
+
+On commits to the main branch the website is redeployed automatically.
 
 ---
 
